@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.atlassian.util.concurrent:atlassian-util-concurrent:4.0.1">
+    <CLASSES>
+      <root url="jar:///usr/local/Cellar/atlassian-plugin-sdk/8.0.16/libexec/repository/io/atlassian/util/concurrent/atlassian-util-concurrent/4.0.1/atlassian-util-concurrent-4.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///usr/local/Cellar/atlassian-plugin-sdk/8.0.16/libexec/repository/io/atlassian/util/concurrent/atlassian-util-concurrent/4.0.1/atlassian-util-concurrent-4.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///usr/local/Cellar/atlassian-plugin-sdk/8.0.16/libexec/repository/io/atlassian/util/concurrent/atlassian-util-concurrent/4.0.1/atlassian-util-concurrent-4.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

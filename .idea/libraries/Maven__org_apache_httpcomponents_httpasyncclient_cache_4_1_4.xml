@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.httpcomponents:httpasyncclient-cache:4.1.4">
+    <CLASSES>
+      <root url="jar:///usr/local/Cellar/atlassian-plugin-sdk/8.0.16/libexec/repository/org/apache/httpcomponents/httpasyncclient-cache/4.1.4/httpasyncclient-cache-4.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///usr/local/Cellar/atlassian-plugin-sdk/8.0.16/libexec/repository/org/apache/httpcomponents/httpasyncclient-cache/4.1.4/httpasyncclient-cache-4.1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///usr/local/Cellar/atlassian-plugin-sdk/8.0.16/libexec/repository/org/apache/httpcomponents/httpasyncclient-cache/4.1.4/httpasyncclient-cache-4.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

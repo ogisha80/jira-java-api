@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.atlassian.jira:jira-rest-api:7.1.0-QR20151229171111">
+    <CLASSES>
+      <root url="jar:///usr/local/Cellar/atlassian-plugin-sdk/8.0.16/libexec/repository/com/atlassian/jira/jira-rest-api/7.1.0-QR20151229171111/jira-rest-api-7.1.0-QR20151229171111.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///usr/local/Cellar/atlassian-plugin-sdk/8.0.16/libexec/repository/com/atlassian/jira/jira-rest-api/7.1.0-QR20151229171111/jira-rest-api-7.1.0-QR20151229171111-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///usr/local/Cellar/atlassian-plugin-sdk/8.0.16/libexec/repository/com/atlassian/jira/jira-rest-api/7.1.0-QR20151229171111/jira-rest-api-7.1.0-QR20151229171111-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

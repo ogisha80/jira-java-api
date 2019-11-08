@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: opensymphony:oscore:2.2.7">
+    <CLASSES>
+      <root url="jar:///usr/local/Cellar/atlassian-plugin-sdk/8.0.16/libexec/repository/opensymphony/oscore/2.2.7/oscore-2.2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///usr/local/Cellar/atlassian-plugin-sdk/8.0.16/libexec/repository/opensymphony/oscore/2.2.7/oscore-2.2.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///usr/local/Cellar/atlassian-plugin-sdk/8.0.16/libexec/repository/opensymphony/oscore/2.2.7/oscore-2.2.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

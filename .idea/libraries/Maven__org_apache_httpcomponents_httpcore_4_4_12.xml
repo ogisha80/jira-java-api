@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.httpcomponents:httpcore:4.4.12">
+    <CLASSES>
+      <root url="jar:///usr/local/Cellar/atlassian-plugin-sdk/8.0.16/libexec/repository/org/apache/httpcomponents/httpcore/4.4.12/httpcore-4.4.12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///usr/local/Cellar/atlassian-plugin-sdk/8.0.16/libexec/repository/org/apache/httpcomponents/httpcore/4.4.12/httpcore-4.4.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///usr/local/Cellar/atlassian-plugin-sdk/8.0.16/libexec/repository/org/apache/httpcomponents/httpcore/4.4.12/httpcore-4.4.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

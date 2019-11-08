@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.atlassian.fugue:fugue:2.6.0">
+    <CLASSES>
+      <root url="jar:///usr/local/Cellar/atlassian-plugin-sdk/8.0.16/libexec/repository/com/atlassian/fugue/fugue/2.6.0/fugue-2.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///usr/local/Cellar/atlassian-plugin-sdk/8.0.16/libexec/repository/com/atlassian/fugue/fugue/2.6.0/fugue-2.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///usr/local/Cellar/atlassian-plugin-sdk/8.0.16/libexec/repository/com/atlassian/fugue/fugue/2.6.0/fugue-2.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
